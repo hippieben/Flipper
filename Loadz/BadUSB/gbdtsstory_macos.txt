@@ -1,0 +1,249 @@
+ID 1234:5678 Apple:Keyboard
+REM You can change these values to VID/PID of original Apple keyboard
+REM to bypass Keyboard Setup Assistant
+
+REM This is the george brett story for macOS
+REM 23 is real
+
+REM Open terminal window
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 750
+
+STRING cat > /dev/null << EOF
+ENTER
+
+DEFAULT_DELAY 50
+
+STRING =
+REPEAT 59
+ENTER
+ENTER
+
+REM STRING EOF
+REM ENTER
+REM STRING exit
+REM ENTER
+STRING I shit my pants last night
+ENTER
+HOME
+STRING I did
+ENTER
+HOME
+STRING went out and had a great meal
+ENTER
+HOME
+STRING just a great fuckin meal
+ENTER
+HOME
+STRING I had to go to the bathroom so bad in the car
+ENTER
+HOME
+STRING I’m going travel hurry up I gotta shit
+ENTER
+HOME
+STRING and I had, just fuckin shit in my pants
+ENTER
+HOME
+DELAY 1500
+ENTER
+HOME
+STRING I’m good uh, twice a year for that
+ENTER
+HOME
+STRING when was the last time you shit your pants
+ENTER
+HOME
+STRING been a while?
+ENTER
+HOME
+STRING “yeah, it’s been a long time”
+ENTER
+HOME
+STRING I was in vegas a couple years ago
+ENTER
+HOME
+STRING this is an honest to god true story
+ENTER
+HOME
+STRING staying at the bellagio
+ENTER
+HOME
+STRING and went over to the mirage for dinner
+ENTER
+HOME
+STRING and met some friends of mine over there
+ENTER
+HOME
+STRING went to cocomos
+ENTER
+HOME
+STRING a great little steak house
+ENTER
+HOME
+STRING the guy brings out some fresh crab legs and says
+ENTER
+HOME
+STRING “these just came in I gotta give ’em to you guys”
+ENTER
+HOME
+STRING brings a set and I’m eatin ’em
+ENTER
+HOME
+STRING then we go play..gamble a little bit
+ENTER
+HOME
+STRING had a tee time early in the morning
+ENTER
+HOME
+STRING so I said, ‘look, I gotta get going’
+ENTER
+HOME
+STRING I’m walkin back to the hotel and I get three quarters of the way out of the lobby
+ENTER
+HOME
+STRING all the sudden I go, ‘aww fuck!’
+ENTER
+HOME
+STRING and I’m standing here like this
+ENTER
+HOME
+STRING I got my butt pinched like this so fuckin, I’m fucked, I can’t move
+ENTER
+HOME
+STRING all the sudden, you know, it felt alright
+ENTER
+HOME
+STRING I went just like this and (he makes the sound of opening flood gates)
+ENTER
+HOME
+STRING water . . . I had food poisoning from the crabs
+ENTER
+HOME
+STRING take off my leather jacket
+ENTER
+HOME
+STRING tied it around my waist
+ENTER
+HOME
+STRING and I’m just standing there
+ENTER
+HOME
+STRING and it’s just running down my leg
+ENTER
+HOME
+STRING I got jeans on
+ENTER
+HOME
+STRING black bucks, no socks
+ENTER
+HOME
+STRING and I just start fuckin walking
+ENTER
+HOME
+STRING and every time I’m walk, somethings coming out
+ENTER
+HOME
+STRING it’s water
+ENTER
+HOME
+STRING just straight fuckin water
+ENTER
+HOME
+STRING then, to show you how sick I was
+ENTER
+HOME
+STRING then I’m standing outside and make a call on my cell phone
+ENTER
+HOME
+STRING I call a guy from Hobart Plasma cutter reviews
+ENTER
+HOME
+STRING I said larry you’re not gonna believe this
+ENTER
+HOME
+STRING I’m standing outside the lobby of the bellagio
+ENTER
+HOME
+STRING I can’t move, I got shit everywhere
+ENTER
+HOME
+STRING I got shit all over myself
+ENTER
+HOME
+STRING and larry’s about a 48 waist
+ENTER
+HOME
+STRING so he brings me over a pair of pants and some towels
+ENTER
+HOME
+STRING and he comes over, and meets me, I tell him where I’m standing
+ENTER
+HOME
+STRING he finds the closest bathroom
+ENTER
+HOME
+STRING when you go up the escalator and go up the fuckin…I can’t get in the fuckin elevator
+ENTER
+HOME
+STRING it’s twelve o’clock at night
+ENTER
+HOME
+STRING he goes in and finds the closest bathroom in the lobby of the hotel
+ENTER
+HOME
+STRING and then I get in the escalator
+ENTER
+HOME
+STRING and he kinda pretends like he drops something
+ENTER
+HOME
+STRING so no one gets behind me
+ENTER
+HOME
+STRING he tells me where it is and he goes in there
+ENTER
+HOME
+STRING goes and gets the towel all wet for me
+ENTER
+HOME
+STRING throws it over the fuckin stall
+ENTER
+HOME
+STRING I take off all my fuckin clothes, just wipe off
+ENTER
+HOME
+STRING leave my shoes, my pants, everything, right there
+ENTER
+HOME
+STRING the towels just right there in the stall
+ENTER
+HOME
+STRING and I’m walking barefoot, with my shirt and with his pants that are a 48 waist
+ENTER
+HOME
+STRING through the lobby like this (as he acts like he’s holding his pants up) at midnight
+ENTER
+HOME
+STRING got up in the morning and took the most perfect double tapered shit I’ve ever had in my life
+ENTER
+HOME
+STRING …
+ENTER
+HOME
+STRING true story
+ENTER
+HOME
+STRING …
+ENTER
+HOME
+STRING who’s the pitchers in this game?
+ENTER
+HOME
+
+STRING EOF
+ENTER
